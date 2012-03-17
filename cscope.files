@@ -1,0 +1,11 @@
+./student.cpp
+./controlpanel.cpp
+./controlpanel.h
+./hutclient.cpp
+./datawidget.h
+./hutclient.h
+./logindlg.h
+./logindlg.cpp
+./datawidget.cpp
+./main.cpp
+./student.h

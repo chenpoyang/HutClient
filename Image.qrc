@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/hutIcon.ico</file>
+        <file>images/Login.jpg</file>
+    </qresource>
+</RCC>
